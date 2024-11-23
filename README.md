@@ -1,4 +1,5 @@
-## Proyecto-Algoritmia-y-Programación
+<meta charset="UTF-8">
+## Proyecto-Algoritmia&nbspy&nbspProgramaci&oacuten
 
 Este proyecto fue realizado el primer semestre (2020-1) de mi carrera universitaria.
 colaboré en su momento en gran parte de la lógica y el código del programa.
@@ -9,9 +10,6 @@ varias opciones donde el niño podrá navegar por la que desee y poder resolver 
 
 ## FOTOS DEL PROGRAMA
 
-
 ![image](https://github.com/user-attachments/assets/4e9f9968-c72f-4eb0-9812-1b700891985e)
-
 <br>
-
 ![image](https://github.com/user-attachments/assets/e0ea738f-56c6-45b8-bcd8-956babccf520)
