@@ -28,7 +28,6 @@ The project is an application designed to teach addition, aimed at helping child
 Este proyecto fue realizado el semestre 2020-1 de mi carrera universitaria. colaboré en su momento en gran parte de la lógica y el código del programa junto con mis compañeros de clases:
 
 <br>
-<br>
 
 {English}
 <br>
