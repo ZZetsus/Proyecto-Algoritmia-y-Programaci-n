@@ -25,14 +25,14 @@ The project is an application designed to teach addition, aimed at helping child
 ![image](https://github.com/user-attachments/assets/e0ea738f-56c6-45b8-bcd8-956babccf520)
 
 # Créditos
-*Español*
+{Españo}
 <br>
 Este proyecto fue realizado el semestre 2020-1 de mi carrera universitaria. colaboré en su momento en gran parte de la lógica y el código del programa junto con mis compañeros de clases:
 
 <br>
 <br>
 
-*English*
+{English}
 <br>
 This project was carried out in the semester 2020-1 of my university career. At that time, I collaborated significantly on the logic and the code of the program along with my classmates:<br><br>
 
