@@ -7,8 +7,6 @@
 (NO DOCUMENTACIÓN)<br>
 El proyecto es una aplicación diseñada para enseñar suma, orientada a ayudar a los niños a aprender la lógica y la abstracción detrás de la suma. Incluye varias opciones que permiten a los niños navegar y elegir el modo que deseen, donde pueden resolver problemas matemáticos que involucren sumas o simplemente practicar la suma. Se hizo totalmente en java (NetBeans 8.2 JDK-8u111).
 
-
-<br>
 <br>
 
 {English}
