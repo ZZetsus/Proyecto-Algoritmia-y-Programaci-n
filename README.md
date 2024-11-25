@@ -13,7 +13,7 @@ El proyecto es una aplicación diseñada para enseñar suma, orientada a ayudar 
 
 {English}
 <br>
-(NO DOCUMENTACIÓN)<br>
+(NO DOCUMENTATION)<br>
 The project is an application designed to teach addition, aimed at helping children learn the logic and abstraction behind addition. It includes several options that allow children to navigate and choose the mode they want, where they can solve math problems involving addition or simply practice addition. It was developed entirely in Java (NetBeans 8.2 JDK-8u111).
 
 
